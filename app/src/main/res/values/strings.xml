@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Mis Lugares</string>
+    <string name="nombre">Nombre</string>
+    <string name="tipo">Tipo</string>
+    <string name="direccion">Direccion</string>
+    <string name="telefono">Telefono</string>
+    <string name="url">Url</string>
+    <string name="comentarios">Comentarios</string>
+    <string name="text_configuracion">Configuracion</string>
+    <string name="text_acercaDe">Acerca de</string>
+    <string name="text_buscar">buscar</string>
+    <string name="alltext_acercaDe">
+        Este programa ha sido desarrollado como ejemplo en el curso Android para demostrar como se pueden lanzar nuevas actividades desde la actividad principal
+    </string>
+
+    <string name="text_nom_lugar">Nombres del lugar</string>
+    <string name="text_tipo_logo">Logo del tipo</string>
+    <string name="text_tipo_lugar">Tipo del lugar</string>
+    <string name="text_foto">fotografia</string>
+    <string name="text_logo_camara">logo camara</string>
+    <string name="text_logo_galeria">logo galeria</string>
+    <string name="text_fecha">Fecha</string>
+    <string name="text_hora">Hora</string>
+
+    <!--Barra de acciones-->
+    <!--vista_lugares-->
+    <string name="action_bar_compartir">compartir</string>
+    <string name="action_bar_llegar">Como llegar</string>
+    <string name="action_bar_edit">Editar</string>
+    <string name="action_bar_borrar">Borrar</string>
+    <!--bar_edicion_ñugar-->
+    <string name="action_bar_guardar">Guardar</string>
+    <string name="action_bar_cancelar">Cancelar</string>
+
+    <!--hints para campos-->
+    <string name="campoNombre">algo que identifique el lugar</string>
+    <string name="campoDireccion">Direccion del lugar</string>
+    <string name="campoTelefono">Telefono para contactar</string>
+    <string name="campoUrl">Pagina Web</string>
+    <string name="campoComentarios">Introduce tus notas</string>
+</resources>

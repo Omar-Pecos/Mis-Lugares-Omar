@@ -1,0 +1,9 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="padding_veinte">20dp</dimen>
+    <dimen name="tamano_imagen_pequena">40dp</dimen>
+    <!--Tamaño para letras-->
+    <dimen name="tamanio_letra_principal">20sp</dimen>
+</resources>
